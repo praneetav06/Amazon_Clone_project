@@ -12,10 +12,3 @@ A simple Amazon-like webpage built using HTML and CSS. This project is a basic i
 
 - **HTML5:** For the structure of the webpage.
 - **CSS3:** For styling and layout
-
-## Future Enhancements
-
-- Add JavaScript for interactivity (e.g., functional search bar, dynamic cart updates).
-- Implement a backend to handle real data.
-- Optimize for performance and accessibility.
-- Improve responsiveness of the page
