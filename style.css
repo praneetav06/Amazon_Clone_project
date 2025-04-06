@@ -26,7 +26,8 @@
   border: 1.9px solid transparent;
 }
 .border:hover {
-  border: 1.9px solid white;
+  border: 2px solid white;
+  border-radius: 5px;
 }
 .add-first {
   color: #cccccc;
