@@ -224,18 +224,3 @@ ul a {
 .copyright {
   padding-top: 5px;
 }
-@media screen and (max-width: 1100px) {
-  .logo {
-    height: 40px;
-    width: 80px;
-  }
-  .add-first {
-    font-size: 0.7rem;
-    margin-left: 10px;
-  }
-  .add-second {
-    font-size: 0.8rem;
-    margin-left: 5px;
-    font-weight: 600;
-  }
-}
